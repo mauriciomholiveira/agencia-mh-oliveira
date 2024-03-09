@@ -1,0 +1,63 @@
+
+---Downloaded files---
+The import files for: Home Default were successfully downloaded!
+Initial max execution time = 1200
+Files info:
+Site URL = http://agencia-mh-oliveira.local
+Data file = C:\Users\mauri\Local Sites\agencia-mh-oliveira\app\public/wp-content/themes/nerko/sample-data/contents-demo.xml
+Widget file = C:\Users\mauri\Local Sites\agencia-mh-oliveira\app\public/wp-content/themes/nerko/sample-data/widget-settings.json
+Customizer file = C:\Users\mauri\Local Sites\agencia-mh-oliveira\app\public/wp-content/themes/nerko/sample-data/customizer-data.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Pesquisar - Search - Imported
+Categorias - Categories - Imported
+Nerko Sidebar Posts Image - Recent Post - Imported
+Nuvem de tags - Popular Tag - Imported
+
+Footer widget no. 1 : 
+
+Nerko Info - No Title - Imported
+
+Footer widget no. 3 : 
+
+Menu - Quick Link - Imported
+
+Footer widget no. 4 : 
+
+Menu - Community - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

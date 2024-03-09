@@ -1,0 +1,927 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Nerko\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-29 10:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: nerko"
+
+#: comments.php:26
+msgid " Comment "
+msgstr ""
+
+#: comments.php:26
+msgid " Comments"
+msgstr ""
+
+#: inc/kirki-customizer.php:214 inc/kirki-customizer.php:230
+#: inc/kirki-customizer.php:247 inc/kirki-customizer.php:376
+#: inc/kirki-customizer.php:417 inc/kirki-customizer.php:458
+#: inc/kirki-customizer.php:499 inc/kirki-customizer.php:578
+#: inc/kirki-customizer.php:594 inc/kirki-customizer.php:610
+#: inc/kirki-customizer.php:626 inc/kirki-customizer.php:642
+#: inc/template-helper.php:161 inc/template-helper.php:162
+#: inc/template-helper.php:163 inc/template-helper.php:183
+#: inc/template-helper.php:184 inc/template-helper.php:185
+#: inc/template-helper.php:186 inc/template-helper.php:230
+#: inc/template-helper.php:231 inc/template-helper.php:232
+#: inc/template-helper.php:233 inc/template-helper.php:234
+#: template-parts/header/header-1.php:18 template-parts/header/header-1.php:19
+#: template-parts/header/header-1.php:35 template-parts/header/header-1.php:36
+#: template-parts/header/header-1.php:37 template-parts/header/header-1.php:38
+#: template-parts/header/header-3.php:18 template-parts/header/header-3.php:19
+#: template-parts/header/header-3.php:20 template-parts/header/header-3.php:35
+#: template-parts/header/header-3.php:36 template-parts/header/header-3.php:37
+#: template-parts/header/header-3.php:38
+msgid "#"
+msgstr ""
+
+#: comments.php:53
+msgid "&larr; Older "
+msgstr ""
+
+#: 404.php:19 inc/kirki-customizer.php:1017
+msgid "404"
+msgstr ""
+
+#: inc/kirki-customizer.php:1031
+msgid "404 Link Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:100
+msgid "404 Page"
+msgstr ""
+
+#: inc/kirki-customizer.php:1015
+msgid "404 Text"
+msgstr ""
+
+#: functions.php:242
+msgid "<i class=\"fas fa-reply-all\"></i> Reply"
+msgstr ""
+
+#: inc/add_plugin.php:38
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: inc/add_plugin.php:135
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/kirki-customizer.php:1033
+msgid "Back To Home"
+msgstr ""
+
+#: 404.php:21
+msgid "Back to home"
+msgstr ""
+
+#: header.php:50 header.php:51
+msgid "Background Circle"
+msgstr ""
+
+#: inc/add_plugin.php:125
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:115
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:120
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-parts/header/header-1.php:146
+#: template-parts/header/header-3.php:140
+#: template-parts/header/header-3.php:140
+msgid "BitGo"
+msgstr ""
+
+#: inc/kirki-customizer.php:415
+msgid "BitGo URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:834 inc/common/nerko-breadcrumb.php:19
+#: inc/common/nerko-breadcrumb.php:23
+msgid "Blog"
+msgstr ""
+
+#: inc/kirki-customizer.php:771
+msgid "Blog Author Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:745
+msgid "Blog Button ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:823
+msgid "Blog Button text"
+msgstr ""
+
+#: inc/kirki-customizer.php:758
+msgid "Blog Category Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:797
+msgid "Blog Comments Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:784
+msgid "Blog Date Meta ON/OFF"
+msgstr ""
+
+#: inc/kirki-customizer.php:843
+msgid "Blog Details"
+msgstr ""
+
+#: inc/kirki-customizer.php:841
+msgid "Blog Details Title"
+msgstr ""
+
+#: functions.php:50
+msgid "Blog Page Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:76
+msgid "Blog Setting"
+msgstr ""
+
+#: inc/common/nerko-widgets.php:16
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/kirki-customizer.php:832
+msgid "Blog Title"
+msgstr ""
+
+#: inc/kirki-customizer.php:1049
+msgid "Body Font"
+msgstr ""
+
+#: inc/kirki-customizer.php:723
+msgid "Breadcrumb Info switch"
+msgstr ""
+
+#: inc/kirki-customizer.php:68
+msgid "Breadcrumb Setting"
+msgstr ""
+
+#: template-parts/header/header-1.php:27 template-parts/header/header-3.php:27
+msgid ""
+"By connecting your wallet, you agree to our Terms of Service and our Privacy "
+"Policy"
+msgstr ""
+
+#: inc/kirki-customizer.php:528
+msgid ""
+"By connecting your wallet, you agree to our Terms of Service and our Privacy "
+"Policy."
+msgstr ""
+
+#: comments.php:118
+msgid "Cancel reply"
+msgstr ""
+
+#: inc/kirki-customizer.php:858
+msgid "Choose Footer Style"
+msgstr ""
+
+#: inc/template-helper.php:89
+msgid "CIN"
+msgstr ""
+
+#: template-parts/header/header-1.php:158
+#: template-parts/header/header-3.php:152
+#: template-parts/header/header-3.php:152
+msgid "Coinbase"
+msgstr ""
+
+#: inc/kirki-customizer.php:497
+msgid "Coinbase URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:92
+msgid "Color Setting"
+msgstr ""
+
+#: comments.php:50
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/kirki-customizer.php:332 template-parts/header/header-1.php:25
+#: template-parts/header/header-3.php:25
+msgid "Connect Wallet"
+msgstr ""
+
+#: inc/kirki-customizer.php:293 template-parts/header/header-1.php:21
+msgid "Connect wallet"
+msgstr ""
+
+#: inc/add_plugin.php:48
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/kirki-customizer.php:941
+msgid "CopyRight"
+msgstr ""
+
+#: inc/kirki-customizer.php:902
+msgid "Copyright Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:148
+msgid "Dark & Light Switcher"
+msgstr ""
+
+#: inc/kirki-customizer.php:141 inc/kirki-customizer.php:154
+#: inc/kirki-customizer.php:177 inc/kirki-customizer.php:197
+#: inc/kirki-customizer.php:271 inc/kirki-customizer.php:315
+#: inc/kirki-customizer.php:360 inc/kirki-customizer.php:401
+#: inc/kirki-customizer.php:442 inc/kirki-customizer.php:483
+#: inc/kirki-customizer.php:568 inc/kirki-customizer.php:673
+#: inc/kirki-customizer.php:729 inc/kirki-customizer.php:751
+#: inc/kirki-customizer.php:764 inc/kirki-customizer.php:777
+#: inc/kirki-customizer.php:790 inc/kirki-customizer.php:803
+#: inc/kirki-customizer.php:816 inc/kirki-customizer.php:895
+msgid "Disable"
+msgstr ""
+
+#: inc/kirki-customizer.php:220 inc/kirki-customizer.php:624
+msgid "Discord URL"
+msgstr ""
+
+#: inc/add_plugin.php:136
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/add_plugin.php:27
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/kirki-customizer.php:140 inc/kirki-customizer.php:153
+#: inc/kirki-customizer.php:176 inc/kirki-customizer.php:196
+#: inc/kirki-customizer.php:270 inc/kirki-customizer.php:314
+#: inc/kirki-customizer.php:359 inc/kirki-customizer.php:400
+#: inc/kirki-customizer.php:441 inc/kirki-customizer.php:482
+#: inc/kirki-customizer.php:567 inc/kirki-customizer.php:672
+#: inc/kirki-customizer.php:728 inc/kirki-customizer.php:750
+#: inc/kirki-customizer.php:763 inc/kirki-customizer.php:776
+#: inc/kirki-customizer.php:789 inc/kirki-customizer.php:802
+#: inc/kirki-customizer.php:815 inc/kirki-customizer.php:894
+msgid "Enable"
+msgstr ""
+
+#: inc/template-helper.php:56
+msgid "English"
+msgstr ""
+
+#: comments.php:82
+msgid "Enter Email"
+msgstr ""
+
+#: comments.php:81
+msgid "Enter Name"
+msgstr ""
+
+#: comments.php:83
+msgid "Enter Website"
+msgstr ""
+
+#: comments.php:96
+msgid "Enter Your Comment"
+msgstr ""
+
+#: inc/kirki-customizer.php:932
+msgid "Enter your menu item link"
+msgstr ""
+
+#: inc/kirki-customizer.php:926
+msgid "Enter your menu item name"
+msgstr ""
+
+#: inc/kirki-customizer.php:1213
+msgid "Event Slug"
+msgstr ""
+
+#: inc/kirki-customizer.php:576
+msgid "Facebook URL"
+msgstr ""
+
+#: inc/common/nerko-widgets.php:32
+#, php-format
+msgid "Footer Column %1$s"
+msgstr ""
+
+#: functions.php:49
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:84
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/common/nerko-widgets.php:30
+#, php-format
+msgid "Footer widget no. %1$s"
+msgstr ""
+
+#: inc/template-helper.php:88
+msgid "GRE"
+msgstr ""
+
+#: inc/kirki-customizer.php:278
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:696
+msgid "Header Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:36
+msgid "Header Right Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:705
+msgid "Header Secondary Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:60
+msgid "Header Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:1071
+msgid "Heading h1 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1093
+msgid "Heading h2 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1115
+msgid "Heading h3 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1137
+msgid "Heading h4 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1159
+msgid "Heading h5 Fonts"
+msgstr ""
+
+#: inc/kirki-customizer.php:1181
+msgid "Heading h6 Fonts"
+msgstr ""
+
+#: inc/class-navwalker.php:366
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/themegenix/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themegenix.net/wp/nerko/"
+msgstr ""
+
+#: inc/template-functions.php:93
+msgid "Image Alt Text"
+msgstr ""
+
+#: inc/template-helper.php:86
+msgid "IND"
+msgstr ""
+
+#: inc/kirki-customizer.php:236 inc/kirki-customizer.php:608
+msgid "Instagram URL"
+msgstr ""
+
+#: inc/add_plugin.php:81
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:80
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/add_plugin.php:82
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/kirki-customizer.php:925
+msgid "Item Name"
+msgstr ""
+
+#: inc/add_plugin.php:63
+msgid "Kirki Customizer Framework"
+msgstr ""
+
+#: comments.php:116
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:117
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:931
+msgid "Link URL"
+msgstr ""
+
+#: comments.php:111
+msgid "Log out of this account"
+msgstr ""
+
+#: comments.php:111
+msgid "Log out?"
+msgstr ""
+
+#: comments.php:105
+msgid "logged in"
+msgstr ""
+
+#: comments.php:111
+msgid "Logged in as"
+msgstr ""
+
+#: inc/template-helper.php:110 inc/template-helper.php:114
+#: inc/template-helper.php:117 inc/template-helper.php:130
+#: inc/template-helper.php:146 inc/template-helper.php:150
+msgid "Logo"
+msgstr ""
+
+#: inc/add_plugin.php:58
+msgid "Mailchimp For WP"
+msgstr ""
+
+#: functions.php:48
+msgid "Main Menu"
+msgstr ""
+
+#: template-parts/header/header-1.php:140
+#: template-parts/header/header-3.php:134
+#: template-parts/header/header-3.php:134
+msgid "MetaMask"
+msgstr ""
+
+#: inc/kirki-customizer.php:374
+msgid "MetaMask URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:544
+msgid "Mobile Menu Logo Dark"
+msgstr ""
+
+#: inc/kirki-customizer.php:553
+msgid "Mobile Menu Logo White"
+msgstr ""
+
+#: inc/kirki-customizer.php:52
+msgid "Mobile Menu Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:518
+msgid "Modal Bottom Text"
+msgstr ""
+
+#. Name of the theme
+msgid "Nerko"
+msgstr ""
+
+#. Description of the theme
+msgid "Nerko - NFT Portfolio WordPress Theme"
+msgstr ""
+
+#: inc/add_plugin.php:32
+msgid "Nerko Core"
+msgstr ""
+
+#: inc/kirki-customizer.php:21
+msgid "Nerko Customizer"
+msgstr ""
+
+#: inc/kirki-customizer.php:28
+msgid "Nerko Default Setting"
+msgstr ""
+
+#: comments.php:56
+msgid "Newer &rarr;"
+msgstr ""
+
+#: single.php:49
+msgid "Next Post"
+msgstr ""
+
+#: inc/add_plugin.php:133
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/kirki-customizer.php:1023
+msgid "Not Found Title"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/add_plugin.php:53
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/kirki-customizer.php:1215
+msgid "ourevent"
+msgstr ""
+
+#: inc/kirki-customizer.php:1224
+msgid "ourportfolio"
+msgstr ""
+
+#: template-parts/content-page.php:9
+msgid "Page"
+msgstr ""
+
+#: inc/common/nerko-breadcrumb.php:38
+msgid "Page not Found"
+msgstr ""
+
+#. Name of the template
+msgid "Page Sidebar"
+msgstr ""
+
+#: template-parts/content-search.php:36 template-parts/content-audio.php:37
+#: template-parts/content-video.php:40 template-parts/content-gallery.php:38
+#: template-parts/content.php:36 template-parts/content-page.php:5
+#: template-parts/content-image.php:35
+msgid "Pages:"
+msgstr ""
+
+#: inc/add_plugin.php:138
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/kirki-customizer.php:348 template-parts/header/header-1.php:26
+#: template-parts/header/header-3.php:26
+msgid "Please select a wallet to connect for start Minting your NFTs"
+msgstr ""
+
+#: inc/add_plugin.php:131
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/add_plugin.php:134
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/kirki-customizer.php:1222
+msgid "Portfolio Slug"
+msgstr ""
+
+#: comments.php:100 comments.php:119
+msgid "Post Comment"
+msgstr ""
+
+#: inc/template-functions.php:42
+msgid "Post Tags :"
+msgstr ""
+
+#: inc/kirki-customizer.php:135
+msgid "Preloader ON/OFF"
+msgstr ""
+
+#: single.php:38
+msgid "Prev Post"
+msgstr ""
+
+#: inc/kirki-customizer.php:968
+msgid "Primary Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:914 template-parts/footer/footer-1.php:18
+msgid "Privacy policy"
+msgstr ""
+
+#: inc/kirki-customizer.php:825 template-parts/blog/blog-btn.php:11
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/add_plugin.php:130
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/kirki-customizer.php:998
+msgid "ScrollUp Color"
+msgstr ""
+
+#: functions.php:296
+msgid "Search"
+msgstr ""
+
+#: inc/common/nerko-breadcrumb.php:35
+msgid "Search Results for : "
+msgstr ""
+
+#: search.php:25
+msgid "Search Results For:"
+msgstr ""
+
+#: inc/kirki-customizer.php:978
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/kirki-customizer.php:988
+msgid "Secondary Color 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:682 inc/kirki-customizer.php:861
+#: inc/kirki-customizer.php:876
+msgid "Select an option..."
+msgstr ""
+
+#: inc/kirki-customizer.php:680
+msgid "Select Header Style"
+msgstr ""
+
+#: inc/kirki-customizer.php:395
+msgid "Show BitGo"
+msgstr ""
+
+#: inc/kirki-customizer.php:810
+msgid "Show Blog Share"
+msgstr ""
+
+#: inc/kirki-customizer.php:477
+msgid "Show Coinbase"
+msgstr ""
+
+#: inc/kirki-customizer.php:889
+msgid "Show Copyright Menu"
+msgstr ""
+
+#: inc/kirki-customizer.php:253
+msgid "Show Header Button"
+msgstr ""
+
+#: inc/kirki-customizer.php:171
+msgid "Show Header Right"
+msgstr ""
+
+#: inc/kirki-customizer.php:184
+msgid "Show Header Social"
+msgstr ""
+
+#: inc/kirki-customizer.php:354
+msgid "Show MetaMask"
+msgstr ""
+
+#: inc/kirki-customizer.php:562
+msgid "Show Mobile Menu Social"
+msgstr ""
+
+#: inc/kirki-customizer.php:309
+msgid "Show Popup Modal"
+msgstr ""
+
+#: inc/kirki-customizer.php:667
+msgid "Show Sticky Header"
+msgstr ""
+
+#: inc/kirki-customizer.php:436
+msgid "Show Trust Wallet"
+msgstr ""
+
+#: inc/kirki-customizer.php:116
+msgid "Slug Settings"
+msgstr ""
+
+#: template-parts/content-search.php:54 template-parts/content-audio.php:55
+#: template-parts/content-video.php:58 template-parts/content-gallery.php:56
+#: template-parts/content.php:54 template-parts/content-image.php:53
+msgid "Social Share :"
+msgstr ""
+
+#: inc/add_plugin.php:84
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: 404.php:20 inc/kirki-customizer.php:1025
+msgid "Sorry, the page you are looking for could not be found"
+msgstr ""
+
+#: inc/template-helper.php:87
+msgid "SPA"
+msgstr ""
+
+#: inc/kirki-customizer.php:640
+msgid "Telegram URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:918 template-parts/footer/footer-1.php:14
+msgid "Terms of Use"
+msgstr ""
+
+#: inc/add_plugin.php:95
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:132
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/add_plugin.php:110
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:105
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:958
+msgid "Theme Color"
+msgstr ""
+
+#. Author of the theme
+msgid "ThemeGenix"
+msgstr ""
+
+#: inc/add_plugin.php:137
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/add_plugin.php:100
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:969
+msgid "This is a Primary color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:999
+msgid "This is a ScrollUp colo control."
+msgstr ""
+
+#: inc/kirki-customizer.php:989
+msgid "This is a Secondary color 2 control."
+msgstr ""
+
+#: inc/kirki-customizer.php:979
+msgid "This is a Secondary color control."
+msgstr ""
+
+#: inc/kirki-customizer.php:959
+msgid "This is a Theme color control."
+msgstr ""
+
+#: inc/add_plugin.php:90
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/add_plugin.php:85
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/kirki-customizer.php:238
+msgid "This works with header style 3"
+msgstr ""
+
+#: comments.php:105
+msgid "to post a comment."
+msgstr ""
+
+#: template-parts/header/header-1.php:152
+#: template-parts/header/header-3.php:146
+msgid "Trust"
+msgstr ""
+
+#: template-parts/header/header-1.php:152
+#: template-parts/header/header-3.php:146
+msgid "Trust Wallet"
+msgstr ""
+
+#: inc/kirki-customizer.php:456
+msgid "Trust Wallet URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:204 inc/kirki-customizer.php:592
+msgid "Twitter URL"
+msgstr ""
+
+#: inc/kirki-customizer.php:108
+msgid "Typography Setting"
+msgstr ""
+
+#: inc/add_plugin.php:83
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/kirki-customizer.php:697 inc/kirki-customizer.php:706
+msgid "Upload Your Logo"
+msgstr ""
+
+#: inc/kirki-customizer.php:545 inc/kirki-customizer.php:554
+msgid "Upload Your Logo."
+msgstr ""
+
+#: inc/kirki-customizer.php:338
+msgid "Wallet Paragraph Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:44
+msgid "Wallet Popup Setting"
+msgstr ""
+
+#: inc/kirki-customizer.php:322
+msgid "Wallet Title Text"
+msgstr ""
+
+#: inc/kirki-customizer.php:873
+msgid "Widget Number"
+msgstr ""
+
+#: inc/kirki-customizer.php:882
+msgid "Widget Number 2"
+msgstr ""
+
+#: inc/kirki-customizer.php:881
+msgid "Widget Number 3"
+msgstr ""
+
+#: inc/kirki-customizer.php:880
+msgid "Widget Number 4"
+msgstr ""
+
+#: inc/add_plugin.php:43
+msgid "WP Classic Editor"
+msgstr ""
+
+#: comments.php:105
+msgid "You must be"
+msgstr ""
